@@ -23,11 +23,11 @@ Here are the key visualizations included in this project:
    cd netflix-movies-visualization
 
 
-2. **Install Dependencies**
+2. **Install Dependencies:**
 Make sure you have Python installed, then install the required libraries:
 pip install pandas matplotlib
 
-3. **Run the Python Script**
+3. **Run the Python Script:**
 Execute the script to generate visualizations:
 python netflix_visualizations.py
 
